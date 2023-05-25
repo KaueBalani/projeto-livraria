@@ -1,0 +1,21 @@
+#topo h1{
+            width: 450px;
+            color: red;
+            margin-left: auto;
+            margin-right: auto;
+        }
+#topo h2{
+            width: 450px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+#destaques h2   { 
+                    color: blue;
+                }
+#sobre h3   {
+                color: red;
+            }
+#produtos h2    {
+                    background-color: red;
+                    color: white;
+                }
